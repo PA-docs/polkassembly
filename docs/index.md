@@ -35,7 +35,8 @@ On-chain voting has several benefits for the governance of a network. The most p
 
 ## How do I start?
 
-- Head over to [Discussions](https://docs.polkassembly.io/forum-pages/discussions) to understand how to create a proposal and allow the community to share their feedback.
+- Head over to [Discussions](https://docs.polkassembly.io/forum-pages/discussions) to understand how to create a proposal and allow the community to share their feedback.![image](https://github.com/user-attachments/assets/1717eaa2-df45-49f8-8a5a-579e377c56dd)
+
 - Learn about how we track the latest on-chain and off-chain events at [Calendar](https://docs.polkassembly.io/forum-pages/calendar).
 - You can learn about [Governance V1](https://docs.polkassembly.io/governance-v1/democracy) and how [Referendum voting](https://docs.polkassembly.io/governance-v1/democracy/referendum) works to start contributing towards your favorite network's governance.
 
